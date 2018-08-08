@@ -8,6 +8,7 @@
 - DlerCloud
 - CordCloud
 - MunCloud
+- RixCloud
 
 ## 无法识别
 目前仅对少部分机场进行适配，如果无法识别，请自行添加后发起Pull Request。
@@ -29,3 +30,5 @@
     ]
 ]
 ```
+
+> 中转节点请使用起始地点作为关键字
